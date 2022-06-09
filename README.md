@@ -1,2 +1,2 @@
-# reac-freecodecamp
+# react-freecodecamp
 proyectos de free
